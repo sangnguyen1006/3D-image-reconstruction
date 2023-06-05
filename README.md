@@ -1,4 +1,4 @@
-# 3D-image-reconstruction
+# 3D image reconstruction
 3D image reconstruction from DICOM images
 
 # Nội dung thực hiện
