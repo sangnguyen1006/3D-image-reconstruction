@@ -1,7 +1,7 @@
 # 3D-image-reconstruction
 3D image reconstruction from DICOM images
 
-# Nội dung cụ thể cần thực hiện
+# Nội dung thực hiện
 
 - Đọc và hiển thị ảnh DICOM
 
