@@ -1,11 +1,3 @@
-%% Ten thanh vien
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%                                   %%%
-% Nguyen Van Sang     1813823       %%%
-% Cao Le Quang Truong 1814546       %%%
-% Dinh Nhat Quang     1813659       %%%
-%                                   %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % De anh DICOM trong mot folder rieng.
 %% 
 clear all
